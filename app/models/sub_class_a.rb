@@ -1,0 +1,1 @@
+class SubClassA < BaseClass; end
